@@ -1,5 +1,5 @@
 # PhpRouter
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/rionislam/PhpRouter/releases/tag/v1.0.0)
+[![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://github.com/rionislam/PhpRouter/releases/tag/v1.0.1)
 
 A Php Router with a custom error handler
 
